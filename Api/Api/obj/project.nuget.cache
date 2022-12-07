@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SBR9wbRoxPqdJAHnMTmqmHfmlSfP2hNT+Mv/MAjwMY2nkaHEXMoh6mFkWPPnoMZnXqTS7JarQ97Nh8MpJeqKAg==",
+  "dgSpecHash": "uoY/2W+C5GaYFX7lzeMivSJTfqm71dhPYt9qWzdv5OS2i7UTGcaf5V7XwXhWtVCqT/q6XB23CG6aZ4Tlx50Y5w==",
   "success": true,
-  "projectFilePath": "/Users/ewabueno/Desktop/worldcup/worldcup/Api/Api/Api.csproj",
+  "projectFilePath": "C:\\GIT\\worldcup\\Api\\Api\\Api.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
